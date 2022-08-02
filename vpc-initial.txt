@@ -1,0 +1,5 @@
+1) Create a Network of 10000 address with 10 subnets (4 Public and 6 Private) with HA.
+2) Create the infra in multiple regions ensuring data never lands on internet.
+3) Attach this to a existing Account with sharing the data ensuring data never lands on internet.
+4) Take a image of the Infra created and save it inside a Storage, such that the images only are visible to the internet
+5) Share this link over DM to me.
